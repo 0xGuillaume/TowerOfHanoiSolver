@@ -1,9 +1,11 @@
 <p align="center">
     <img src="https://github.com/0xGuillaume/TowerOfHanoiSolver/blob/main/img/banner.png">
 </p>
+<p align="center">
+    <img src="(http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/">
+</p>
 <br>
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## 🧩 Puzzle
 
