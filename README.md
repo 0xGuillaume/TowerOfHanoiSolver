@@ -45,7 +45,11 @@ pip install -r requirements.txt
 git clone https://github.com/0xGuillaume/TowerOfHanoiSolver.git
 ```
 
-2. The program takes on **required** argument that specify the number of disks the puzzle will be based on.
+2. The program takes one **required** argument that specify the number of disks the puzzle will be based on.
+
+```bash
+--disks DISKS, -d DISKS # DISKS for number of disks.
+```
 
 >**NOTE:** Only digit between 3 and 8 **are accepted**.
 
