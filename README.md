@@ -1,4 +1,7 @@
-# Tower Of Hanoi Solver
+![banner](img/banner.png)
+<br><br>
+<hr>
+<br>
 
 ## 🧩 Puzzle
 
