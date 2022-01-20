@@ -2,9 +2,22 @@
 
 ## 🧩 Puzzle
 
-Lorem ipsum
+The Tower of Hanoi is a puzzle based on **3 rods and** X **number of disks**. Your goal is to move the entire stack of the first tower (or rod) to the third. You must follow 3 rules :
+
+- Only one disk may be moved at the time.
+
+- Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod.
+
+- No disk may be placed on top of a disk that is smaller than it.
+
+The minimal of moves required to solve the puzzle is obtain via **2^_n_ - 1** where **_n_** is the number of disks.
+
+Learn more details [here](https://en.wikipedia.org/wiki/Tower_of_Hanoi).
+
 
 ## 🖥️ Output
+
+The output display how you should move disks between towers.
 
 <p align="center">
     <img src="https://github.com/0xGuillaume/TowerOfHanoiSolver/blob/main/img/output.gif">
