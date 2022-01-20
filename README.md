@@ -7,7 +7,7 @@ Lorem ipsum
 ## 🖥️ Output
 
 <p align="center">
-    <img src "https://github.com/0xGuillaume/TowerOfHanoiSolver/blob/main/img/output.png">
+    <img src="https://github.com/0xGuillaume/TowerOfHanoiSolver/blob/main/img/output.png">
 </p>
 
 ## 📦 Requirements 
