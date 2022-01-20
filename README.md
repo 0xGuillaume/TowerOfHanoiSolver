@@ -1,4 +1,6 @@
-![banner](img/banner.png)
+<p align="center">
+    <img src="https://github.com/0xGuillaume/TowerOfHanoiSolver/blob/main/img/banner.png">
+</p>
 <br>
 
 ## 🧩 Puzzle
