@@ -1,6 +1,4 @@
 ![banner](img/banner.png)
-<br><br>
-<hr>
 <br>
 
 ## 🧩 Puzzle
