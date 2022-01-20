@@ -6,7 +6,9 @@ Lorem ipsum
 
 ## 🖥️ Output
 
-![output](img/output.png)
+<p align="center">
+    <img src "https://github.com/0xGuillaume/TowerOfHanoiSolver/blob/main/img/output.png">
+</p>
 
 ## 📦 Requirements 
 
@@ -23,9 +25,9 @@ pip install -r requirements.txt
 git clone https://github.com/0xGuillaume/TowerOfHanoiSolver.git
 ```
 
-1. The program takes on **required** argument that specify the number of disks the puzzle will be based on.
+2. The program takes on **required** argument that specify the number of disks the puzzle will be based on.
 
->Only digit between 3 and 8 **are accepted**.
+>**NOTE:** Only digit between 3 and 8 **are accepted**.
 
 Window environment:
 ```bash
