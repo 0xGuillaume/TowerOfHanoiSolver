@@ -3,6 +3,8 @@
 </p>
 <br>
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 ## 🧩 Puzzle
 
 The Tower of Hanoi is a puzzle based on **3 rods and** X **number of disks**. Your goal is to move the entire stack of the first tower (or rod) to the third. You must follow 3 rules :
