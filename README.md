@@ -6,8 +6,6 @@
         <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
     </a>
 </p>
-<br>
-
 
 ## 🧩 Puzzle
 
