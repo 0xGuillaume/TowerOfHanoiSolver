@@ -38,7 +38,7 @@ The output display how you should move disks between towers.
 pip install -r requirements.txt
 ```
 
-## 📀 Execution
+## 📀 Local Execution
 
 1. Clone the repository locally.
 ```bash
@@ -62,3 +62,15 @@ Linux environment:
 ```bash
 python3 solver.py -d 3
 ```
+
+## 🐋 Docker Execution
+
+To run the solver inside of a container, run the following commands : 
+
+```sh
+docker build -t hanoi .
+
+docker run -it hanoi
+```
+
+
