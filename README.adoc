@@ -1,0 +1,83 @@
+<p align="center">
+    <img src="https://github.com/0xGuillaume/TowerOfHanoiSolver/blob/main/img/banner.png">
+</p>
+<p align="center">
+    <a href="https://www.python.org/">
+        <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+    </a>
+</p>
+
+🧩 Puzzle
+=========
+:toc:
+:toc-placement: preamble
+:toclevels: 1
+:showtitle:
+
+toc::[]
+
+The Tower of Hanoi is a puzzle based on **3 rods and** X **number of disks**. Your goal is to move the entire stack of the first tower (or rod) to the third. You must follow 3 rules :
+
+- Only one disk may be moved at the time.
+
+- Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod.
+
+- No disk may be placed on top of a disk that is smaller than it.
+
+The minimal of moves required to solve the puzzle is obtain via **2^_n_ - 1** where **_n_** is the number of disks.
+
+Learn more details [here](https://en.wikipedia.org/wiki/Tower_of_Hanoi).
+
+
+= 🖥️ Output
+
+The output display how you should move disks between towers.
+
+<p align="center">
+    <img src="https://github.com/0xGuillaume/TowerOfHanoiSolver/blob/main/img/output.gif">
+</p>
+
+= 📦 Requirements 
+
+**Specific to Windows :** In order to run the programm, [windows-curses](https://pypi.org/project/windows-curses/) pacakge is required.
+
+```bash
+pip install -r requirements.txt
+```
+
+= 📀 Local Execution
+
+1. Clone the repository locally.
+```bash
+git clone https://github.com/0xGuillaume/TowerOfHanoiSolver.git
+```
+
+2. The program takes one **required** argument that specify the number of disks the puzzle will be based on.
+
+```bash
+--disks DISKS, -d DISKS # DISKS for number of disks.
+```
+
+>**NOTE:** Only digit between 3 and 8 **are accepted**.
+
+Window environment:
+```bash
+python solver.py -d 3
+```
+
+Linux environment:
+```bash
+python3 solver.py -d 3
+```
+
+= 🐋 Docker Execution
+
+To run the solver inside of a container, run the following commands : 
+
+```sh
+docker build -t hanoi .
+
+docker run -it hanoi
+```
+
+
