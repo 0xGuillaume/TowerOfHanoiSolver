@@ -38,9 +38,11 @@ Learn more details [here](https://en.wikipedia.org/wiki/Tower_of_Hanoi).
 
 The output display how you should move disks between towers.
 
+++++
 <p align="center">
     <img src="https://github.com/0xGuillaume/TowerOfHanoiSolver/blob/main/img/output.gif">
 </p>
+++++
 
 = 📦 Requirements 
 
