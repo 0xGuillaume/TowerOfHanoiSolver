@@ -1,18 +1,19 @@
-/<p align="center">
-/    <img src="https://github.com/0xGuillaume/TowerOfHanoiSolver/blob/main/img/banner.png">
-/</p>
-/<p align="center">
-/    <a href="https://www.python.org/">
-/        <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-/    </a>
-/</p>
-
 🧩 Puzzle
 =========
 :toc:
 :toc-placement: preamble
 :toclevels: 1
 :showtitle:
+
+<p align="center">
+    <img src="https://github.com/0xGuillaume/TowerOfHanoiSolver/blob/main/img/banner.png">
+</p>
+<p align="center">
+    <a href="https://www.python.org/">
+        <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+    </a>
+</p>
+
 
 toc::[]
 
