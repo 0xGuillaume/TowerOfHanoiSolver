@@ -1,5 +1,5 @@
-🧩 Puzzle
-=========
+🧩 Tower of Hanoi solver
+========================
 :toc:
 :toc-placement: preamble
 :toclevels: 1
@@ -7,6 +7,7 @@
 
 toc::[]
 
+++++
 <p align="center">
     <img src="https://github.com/0xGuillaume/TowerOfHanoiSolver/blob/main/img/banner.png">
 </p>
@@ -15,6 +16,7 @@ toc::[]
         <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
     </a>
 </p>
+++++
 
 
 = 🧩 Puzzle
